@@ -47,6 +47,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Skills
+#### Software Repository Mining
+1. Apriori Algorithm
+2. FP Growth
 <!-- This end of comment 
 
 https://www.sitepoint.com/github-profile-readme/
