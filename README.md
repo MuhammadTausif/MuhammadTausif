@@ -54,5 +54,10 @@ Here are some ideas to get you started:
 2. FP Growth
 <!-- This end of comment 
 
+#### Advanced Computer Vision 
+
+1. Fourier Transformation 
+2. Fast Fourier Transformation 
+3. DFT
 https://www.sitepoint.com/github-profile-readme/
 -->
