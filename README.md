@@ -61,3 +61,32 @@ Here are some ideas to get you started:
 3. DFT
 https://www.sitepoint.com/github-profile-readme/
 -->
+
+### Hi there, I'm Muhammad Tausif 👋
+
+I'm a **PhD student** passionate about machine learning, Chrome extensions, and simulation modeling. I love solving complex problems and contributing to open-source projects.
+
+---
+
+#### Skills & Technologies
+- Programming: Python, Java, Kotlin, JavaScript
+- Tools: NetLogo, Gephi, Scikit-learn, TensorFlow
+- Specializations: Agent-Based Models, Chrome Extensions, Simulation Modeling
+
+---
+
+#### Featured Projects
+- [D2X Chrome Extension](https://github.com/muhammadTausif/D2X-Chrome-Extension)  
+  A tool to help victims of online violence by automating social media post evaluations.
+
+- [Nanorobot Simulation Model](https://github.com/muhammadTausif/nanorobot-simulation)  
+  Simulating nanorobots in the pulmonary vascular system using Particle Swarm Optimization.
+
+- [NetLogo Phycocyanin Model](https://github.com/muhammadTausif/phycocyanin-model)  
+  A model to study nutrient dynamics and algal growth in aquatic ecosystems.
+
+---
+
+#### Let's Connect
+- LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammadtausif)
+- Email: youremail@example.com
