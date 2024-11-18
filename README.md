@@ -1,4 +1,4 @@
-<div id="header" align="center">
+I<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 
@@ -88,5 +88,5 @@ I'm a **PhD student** passionate about machine learning, Chrome extensions, and 
 ---
 
 #### Let's Connect
-- LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammadtausif)
-- Email: youremail@example.com
+- LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammedtausif)
+- Email: tausifasia@gmail.com
