@@ -85,6 +85,8 @@ I'm a **PhD student** passionate about machine learning, Chrome extensions, and 
 - [NetLogo Phycocyanin Model](https://github.com/muhammadTausif/phycocyanin-model)  
   A model to study nutrient dynamics and algal growth in aquatic ecosystems.
 
+And many more
+
 ---
 
 #### Let's Connect
