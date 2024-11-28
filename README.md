@@ -109,6 +109,17 @@ And many more
 - Latex
 - [OverLeaf](https://www.overleaf.com/)
 
+#### Video Rendering tools
+- ffmpeg
+
+#### UX/UI/Video Editing/Screen Casting
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe XD
+- Figma
+- ffmpeg
+- OBS
+- Filmora 10+
 #### Let's Connect
 - LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammedtausif)
 - Email: tausifasia@gmail.com
