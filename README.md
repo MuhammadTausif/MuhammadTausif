@@ -89,6 +89,21 @@ And many more
 
 ---
 
+#### Python Packages
+
+- pip
+- manim
+
+#### Installer
+- [chocolatey](https://chocolatey.org/install)
+
+
+#### Graph theory
+
+- Network workbanch
+- Giphy
+- JavaScript Animation
+
 #### Let's Connect
 - LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammedtausif)
 - Email: tausifasia@gmail.com
