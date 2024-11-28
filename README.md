@@ -104,6 +104,11 @@ And many more
 - Giphy
 - JavaScript Animation
 
+#### Scripting
+- Leaflet.js
+- Latex
+- [OverLeaf](https://www.overleaf.com/)
+
 #### Let's Connect
 - LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammedtausif)
 - Email: tausifasia@gmail.com
