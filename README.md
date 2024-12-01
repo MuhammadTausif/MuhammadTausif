@@ -91,11 +91,21 @@ And many more
 
 #### Python Packages
 
+##### Standard
 - pip
-- manim
-- icecream
+- pathlib
+- time
+- io
+
+##### Custom
+- manim: Animation library by 3b1b
+- icecream: A wrapper for print()
 - pandas
-- numpy
+- numpy: 
+- tqdm: Show progress of the program
+- rich: Formatting Text, output, and traces
+- pydanic: Type inforcing library
+- ruff: code linter
 
 #### Installer
 - [chocolatey](https://chocolatey.org/install)
