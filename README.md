@@ -133,7 +133,7 @@ And many more
 #### Video Rendering tools
 - ffmpeg
 
-#### UX/UI/Video Editing/Screen Casting
+#### UX/UI/Video Editing/Screen Casting/Animation
 - Adobe Photoshop
 - Adobe Illustrator
 - Adobe XD
@@ -141,6 +141,9 @@ And many more
 - ffmpeg
 - OBS
 - Filmora 10+
+- [wickeditor](https://www.wickeditor.com/)
+- Pancil2D
+- OpenToonz
 
 #### AI/ML/DL
 
