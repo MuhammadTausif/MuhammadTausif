@@ -120,6 +120,24 @@ And many more
 - ffmpeg
 - OBS
 - Filmora 10+
+
+#### AI/ML/DL
+
+##### Simulation and Modeling
+- Agent-Based Modeling / Multi-Agent Modeling / Individual-Based Modeling
+- NetLogo
+- AnyLogic
+  
+##### Machine Learning
+- Linear Regression
+
+##### Deep Learning
+- PyTorch
+- Tensor
+- TensorFlow
+
+
+  
 #### Let's Connect
 - LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammedtausif)
 - Email: tausifasia@gmail.com
