@@ -93,6 +93,9 @@ And many more
 
 - pip
 - manim
+- icecream
+- pandas
+- numpy
 
 #### Installer
 - [chocolatey](https://chocolatey.org/install)
