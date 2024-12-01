@@ -92,24 +92,32 @@ And many more
 #### Python Packages
 
 ##### Standard
-- pip
-- pathlib
-- time
-- io
+| Library     | Description                          |
+|-------------|--------------------------------------|
+| pathlib     |                                      |
+| time        |                                      |
+| io          |                                      |
+| sqlite      |                                      |
 
 ##### Custom
-- manim: Animation library by 3b1b
-- icecream: A wrapper for print()
-- pandas
-- numpy: 
-- tqdm: Show progress of the program
-- rich: Formatting Text, output, and traces
-- pydanic: Type inforcing library
-- ruff: code linter
+| Library     | Description                          |
+|-------------|--------------------------------------|
+| manim       | Animation library by 3b1b           |
+| icecream    | A wrapper for print()               |
+| pandas      | -                                    |
+| numpy       | -                                    |
+| tqdm        | Show progress of the program        |
+| rich        | Formatting Text, output, and traces |
+| pydantic    | Type enforcing library              |
+| ruff        | Code linter                         |
+
 
 #### Installer
-- [chocolatey](https://chocolatey.org/install)
-
+| Installer   | Description                          |
+|-------------|--------------------------------------|
+| pip         |                                      |
+| chocolatey  |[chocolatey](https://chocolatey.org/install)|
+| npm         |                                      | 
 
 #### Graph theory
 
