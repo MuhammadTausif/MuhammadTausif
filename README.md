@@ -159,7 +159,10 @@ And many more
 - PyTorch
 - Tensor
 - TensorFlow
-
+- 
+##### Advance Computer Vision
+- Fourier analysis
+- Image Segmentation
 
   
 #### Let's Connect
