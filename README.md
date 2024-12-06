@@ -168,6 +168,7 @@ And many more
 ##### Information Visualization and Presentation
 - Gephi
 - [JavaScript InfoVis Toolkit](https://philogb.github.io/jit/demos.html)
+- Infographic
   
 #### Let's Connect
 - LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammedtausif)
