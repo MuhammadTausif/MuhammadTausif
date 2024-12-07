@@ -164,6 +164,7 @@ And many more
 ##### Advance Computer Vision
 - Fourier analysis
 - Image Segmentation
+- Sobel operator
 
 ##### Information Visualization and Presentation
 - Gephi
