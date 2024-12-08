@@ -145,6 +145,8 @@ And many more
 - Pancil2D
 - OpenToonz
 - [giphy](https://giphy.com/)
+- [Blender](https://www.blender.org/)
+- [Clipchamp](https://clipchamp.com/en/)
 
 #### AI/ML/DL
 
