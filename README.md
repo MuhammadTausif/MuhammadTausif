@@ -167,6 +167,7 @@ And many more
 - Fourier analysis
 - Image Segmentation
 - Sobel operator
+- Canny 
 
 ##### Information Visualization and Presentation
 - Gephi
