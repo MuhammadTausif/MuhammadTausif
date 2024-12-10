@@ -168,6 +168,7 @@ And many more
 - Image Segmentation
 - Sobel operator
 - Canny 
+- Feature Extraction 
 
 ##### Information Visualization and Presentation
 - Gephi
