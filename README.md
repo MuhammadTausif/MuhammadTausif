@@ -167,6 +167,7 @@ And many more
 - Fourier analysis
 - Image Segmentation
 - Sobel operator
+- Priwett
 - Canny 
 - Feature Extraction 
 
