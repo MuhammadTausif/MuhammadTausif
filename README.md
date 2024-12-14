@@ -32,7 +32,7 @@
 
 
 
-I am a Full Stack Developer, Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I am a Full Stack Developer, Data Scientist, Simulation & Modeling Expert (NetLogo) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
 <!-- This start of comment -->
 **MuhammadTausif/MuhammadTausif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
