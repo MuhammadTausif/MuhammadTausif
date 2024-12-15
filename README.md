@@ -166,8 +166,9 @@ And many more
 ##### Advance Computer Vision
 - Fourier analysis
 - Image Segmentation
-- Sobel operator
-- Priwett
+- Robert Mask
+- Sobel Mask
+- Priwett Mask
 - Canny 
 - Feature Extraction 
 
