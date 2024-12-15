@@ -110,6 +110,8 @@ And many more
 | rich        | Formatting Text, output, and traces |
 | pydantic    | Type enforcing library              |
 | ruff        | Code linter                         |
+| [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/index.html)     |  PyMuPDF is a high-performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.|
+
 
 
 #### Installer
