@@ -167,11 +167,10 @@ And many more
 
 ##### Advance Computer Vision
 - Fourier analysis
+- Histogram
 - Image Segmentation
 - Robert Mask
-- Sobel Mask
-- Priwett Mask
-- Canny 
+- Sobel Mask, Priwett Mask, Canny 
 - Feature Extraction 
 
 ##### Information Visualization and Presentation
