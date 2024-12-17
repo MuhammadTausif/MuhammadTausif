@@ -159,6 +159,7 @@ And many more
   
 ##### Machine Learning
 - Linear Regression
+- Word Embedding (Word2Vec, Glove)
 
 ##### Deep Learning
 - PyTorch
