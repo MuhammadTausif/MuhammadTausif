@@ -159,7 +159,9 @@ And many more
   
 ##### Machine Learning
 - Linear Regression
-- Word Embedding (Word2Vec, Glove)
+- Words Embedding (Word2Vec, GloVe)
+- Sparse Words Embedding (embedding having less information)
+- Dense Words Embedding
 
 ##### Deep Learning
 - PyTorch
