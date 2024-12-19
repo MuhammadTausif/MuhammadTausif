@@ -85,6 +85,9 @@ I'm a **PhD student** passionate about machine learning, Chrome extensions, and 
 - [NetLogo Phycocyanin Model](https://github.com/muhammadTausif/phycocyanin-model)  
   A model to study nutrient dynamics and algal growth in aquatic ecosystems.
 
+- [Data Encryption and Compression Simulator](www.example.com)
+  A Simulator to show the RSA encyption and Huffman Compression from scratch.
+
 And many more
 
 ---
