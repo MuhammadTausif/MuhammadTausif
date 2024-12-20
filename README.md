@@ -170,6 +170,10 @@ And many more
 - PyTorch
 - Tensor
 - TensorFlow
+- Hugging Face
+- Perceptron
+- Weights, Bias, Input layer, hidden layers, output layers
+- Single Neuron, and Linear Regression Model
 
 ##### Advance Computer Vision
 - Fourier analysis
