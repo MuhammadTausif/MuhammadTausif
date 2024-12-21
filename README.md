@@ -165,6 +165,7 @@ And many more
 - Words Embedding (Word2Vec, GloVe)
 - Sparse Words Embedding (embedding having less information)
 - Dense Words Embedding
+- Precision and recall
 
 ##### Deep Learning
 - PyTorch
