@@ -182,7 +182,10 @@ And many more
 - Image Segmentation
 - Robert Mask
 - Sobel Mask, Priwett Mask, Canny 
-- Feature Extraction 
+- Feature Extraction
+
+##### Software Repositories Mining (Data Mining)
+- 
 
 ##### Information Visualization and Presentation
 - Gephi
