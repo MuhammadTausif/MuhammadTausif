@@ -185,7 +185,9 @@ And many more
 - Feature Extraction
 
 ##### Software Repositories Mining (Data Mining)
-- 
+- Precision
+- Recall
+- Lift
 
 ##### Information Visualization and Presentation
 - Gephi
