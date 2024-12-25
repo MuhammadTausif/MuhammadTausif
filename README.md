@@ -188,6 +188,7 @@ And many more
 - Precision
 - Recall
 - Lift
+- Frequent Pattern
 
 ##### Information Visualization and Presentation
 - Gephi
