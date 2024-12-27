@@ -189,7 +189,10 @@ And many more
 - Recall
 - Lift
 - Frequent Pattern
-- Accuracy 
+- Accuracy
+- KNN
+- K-Means
+- Clustering
 
 ##### Information Visualization and Presentation
 - Gephi
