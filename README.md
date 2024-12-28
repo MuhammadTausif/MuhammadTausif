@@ -190,6 +190,7 @@ And many more
 - Lift
 - Frequent Pattern
 - Accuracy
+- Error Rate
 - KNN
 - K-Means
 - Clustering
