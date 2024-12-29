@@ -183,6 +183,8 @@ And many more
 - Robert Mask
 - Sobel Mask, Priwett Mask, Canny 
 - Feature Extraction
+- AlexNet
+- Vgg
 
 ##### Software Repositories Mining (Data Mining)
 - Precision
