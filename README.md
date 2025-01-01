@@ -177,7 +177,12 @@ And many more
 - Perceptron
 - Weights, Bias, Input layer, hidden layers, output layers
 - Single Neuron, and Linear Regression Model
-- Tensor playground 
+- Tensor playground
+- CNN
+- RNN
+- LSTM
+- GRU
+- Transformer
 
 ##### Advance Computer Vision
 - Fourier analysis
