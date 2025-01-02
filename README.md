@@ -175,6 +175,7 @@ And many more
 - TensorFlow
 - Hugging Face
 - Perceptron
+- MLP Multi Layer Perceptron 
 - Weights, Bias, Input layer, hidden layers, output layers
 - Single Neuron, and Linear Regression Model
 - Tensor playground
