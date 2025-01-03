@@ -205,6 +205,7 @@ And many more
 - KNN
 - K-Means
 - Clustering
+- Data mining 
 
 ##### Information Visualization and Presentation
 - Gephi
