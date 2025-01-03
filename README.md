@@ -211,6 +211,7 @@ And many more
 - Gephi
 - [JavaScript InfoVis Toolkit](https://philogb.github.io/jit/demos.html)
 - Infographic
+- Multivarient 
   
 #### Let's Connect
 - LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammedtausif)
