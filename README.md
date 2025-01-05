@@ -213,6 +213,7 @@ And many more
 - Infographic
 - Multivarient
 - Table lens
+- Parralel Coordinates
   
 #### Let's Connect
 - LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammedtausif)
