@@ -184,6 +184,7 @@ And many more
 - LSTM
 - GRU
 - Transformer
+- Gates
 
 ##### Advance Computer Vision
 - Fourier analysis
