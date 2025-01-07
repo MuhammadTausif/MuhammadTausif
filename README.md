@@ -206,7 +206,11 @@ And many more
 - KNN
 - K-Means
 - Clustering
-- Data mining 
+- Data mining
+
+##### Data Augmentation
+- TokenMix
+- CutMix
 
 ##### Information Visualization and Presentation
 - Gephi
