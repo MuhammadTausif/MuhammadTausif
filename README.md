@@ -185,6 +185,7 @@ And many more
 - GRU
 - Transformer
 - Gates
+- **BLEU**: Bilingual Evaluation Understudy
 
 ##### Advance Computer Vision
 - Fourier analysis
