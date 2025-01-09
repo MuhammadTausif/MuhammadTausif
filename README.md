@@ -212,6 +212,7 @@ And many more
 ##### Data Augmentation
 - TokenMix
 - CutMix
+- Geometric Augmentation 
 
 ##### Information Visualization and Presentation
 - Gephi
