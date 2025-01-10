@@ -208,6 +208,7 @@ And many more
 - K-Means
 - Clustering
 - Data mining
+- BLEU
 
 ##### Data Augmentation
 - TokenMix
