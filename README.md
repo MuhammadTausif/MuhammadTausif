@@ -213,7 +213,11 @@ And many more
 ##### Data Augmentation
 - TokenMix
 - CutMix
-- Geometric Augmentation 
+- Geometric Augmentation
+- Attribute level Augmentation
+
+##### Federated Machine Learning
+- .
 
 ##### Information Visualization and Presentation
 - Gephi
