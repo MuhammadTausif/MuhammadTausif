@@ -226,6 +226,7 @@ And many more
 - Multivarient
 - Table lens
 - Parralel Coordinates
+- Responsive Matrix Cells 
   
 #### Let's Connect
 - LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammedtausif)
