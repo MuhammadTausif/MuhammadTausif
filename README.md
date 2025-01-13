@@ -217,7 +217,7 @@ And many more
 - Attribute level Augmentation
 
 ##### Federated Machine Learning
-- .
+- Difference between Federated Machine Learning and Distributed Machine Learning
 
 ##### Information Visualization and Presentation
 - Gephi
