@@ -228,6 +228,7 @@ And many more
 - Parralel Coordinates
 - Responsive Matrix Cells
 - Multivariate Graphs
+- Dashboards 
   
 #### Let's Connect
 - LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammedtausif)
