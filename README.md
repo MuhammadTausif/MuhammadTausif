@@ -230,7 +230,12 @@ And many more
 - Multivariate Graphs
 - Dashboards 
 
-#### Augmentation-Driven Unified Framework for Commit-Level Anomaly and Defect Prediction 
+#### Augmentation-Driven Unified Framework for Commit-Level Anomaly and Defect Prediction
+- Data Processing
+- Data Augmentation
+- Anomaly Detection
+- Defect Prediction
+- Comparison and Evaluation
   
 #### Let's Connect
 - LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammedtausif)
