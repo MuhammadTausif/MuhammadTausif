@@ -209,6 +209,8 @@ And many more
 - Clustering
 - Data mining
 - BLEU
+- Git
+- GitHub 
 
 ##### Data Augmentation
 - TokenMix
