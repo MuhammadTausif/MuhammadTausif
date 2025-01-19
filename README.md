@@ -210,7 +210,9 @@ And many more
 - Data mining
 - BLEU
 - Git
-- GitHub 
+- GitHub
+- Percision
+- Recall
 
 ##### Data Augmentation
 - TokenMix
