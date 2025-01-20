@@ -186,6 +186,9 @@ And many more
 - Transformer
 - Gates
 - **BLEU**: Bilingual Evaluation Understudy
+- Transfer learning 
+
+
 
 ##### Advance Computer Vision
 - Fourier analysis
