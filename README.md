@@ -235,7 +235,8 @@ And many more
 - Parralel Coordinates
 - Responsive Matrix Cells
 - Multivariate Graphs
-- Dashboards 
+- Dashboards
+- RMC
 
 #### Augmentation-Driven Unified Framework for Commit-Level Anomaly and Defect Prediction
 - Data Processing
