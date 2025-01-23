@@ -237,6 +237,7 @@ And many more
 - Multivariate Graphs
 - Dashboards
 - RMC
+- Miller Law
 
 #### Augmentation-Driven Unified Framework for Commit-Level Anomaly and Defect Prediction
 - Data Processing
