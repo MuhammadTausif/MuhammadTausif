@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 1. Fourier Transformation 
 2. Fast Fourier Transformation 
 3. DFT
+4. Image Segmentation
 https://www.sitepoint.com/github-profile-readme/
 -->
 
