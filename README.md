@@ -246,6 +246,10 @@ And many more
 - Anomaly Detection
 - Defect Prediction
 - Comparison and Evaluation
+ 
+#### Augmentation-Driven Unified Framework for Emotion Detection to Enhance the Quality of Live Search Resutls
+- Data Processing
+
   
 #### Let's Connect
 - LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammedtausif)
