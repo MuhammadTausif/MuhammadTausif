@@ -250,6 +250,9 @@ And many more
 #### Augmentation-Driven Unified Framework for Emotion Detection to Enhance the Quality of Live Search Resutls
 - Data Processing
 
+#### Retrieval-Augmented Generation (RAG)
+
+
   
 #### Let's Connect
 - LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammedtausif)
