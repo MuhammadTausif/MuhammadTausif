@@ -215,8 +215,7 @@ And many more
 - BLEU
 - Git
 - GitHub
-- Percision
-- Recall
+- Jaccard similarity 
 
 ##### Data Augmentation
 - TokenMix
