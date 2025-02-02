@@ -254,6 +254,8 @@ And many more
 #### Retrieval-Augmented Generation (RAG)
 
 #### Google Colab
+- Create Python files
+- Run cell
 
   
 #### Let's Connect
