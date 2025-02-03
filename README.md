@@ -238,6 +238,7 @@ And many more
 - Dashboards
 - RMC
 - Miller Law
+- Short-Term Memory
 
 #### Augmentation-Driven Unified Framework for Commit-Level Anomaly and Defect Prediction
 - Data Processing
