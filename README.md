@@ -257,6 +257,7 @@ And many more
 #### Google Colab
 - Create Python files
 - Run cell
+- Markdown
 
   
 #### Let's Connect
