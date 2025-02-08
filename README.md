@@ -259,7 +259,7 @@ And many more
 - Run cell
 - Markdown
 - T4
-
+- GPU
 ##### LinkedIn
 
   
