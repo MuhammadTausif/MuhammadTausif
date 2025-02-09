@@ -260,6 +260,7 @@ And many more
 - Markdown
 - T4
 - GPU
+
 ##### LinkedIn
 
   
