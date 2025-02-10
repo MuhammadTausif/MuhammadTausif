@@ -262,7 +262,8 @@ And many more
 - GPU
 
 ##### LinkedIn
-
+- Post
+- Profile
   
 #### Let's Connect
 - LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammedtausif)
