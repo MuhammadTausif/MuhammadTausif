@@ -265,6 +265,7 @@ And many more
 - Post
 - Profile
 - Banner
+- Picture
   
 #### Let's Connect
 - LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammedtausif)
