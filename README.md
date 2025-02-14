@@ -268,6 +268,7 @@ And many more
 - Picture
 - Post
 - Article
+- Projects 
   
 #### Let's Connect
 - LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammedtausif)
