@@ -269,7 +269,10 @@ And many more
 - Post
 - Article
 - Projects
-- Statistics 
+- Statistics
+
+#### Computational Modeling
+
   
 #### Let's Connect
 - LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammedtausif)
