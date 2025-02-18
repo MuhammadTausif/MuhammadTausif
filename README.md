@@ -273,6 +273,9 @@ And many more
 
 #### Computational Modeling
 
+#### SNA
+
+
   
 #### Let's Connect
 - LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammedtausif)
