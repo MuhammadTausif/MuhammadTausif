@@ -276,9 +276,6 @@ And many more
 #### SNA
 
 #### IRT 
-
-#### SNA
-
   
 #### Let's Connect
 - LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammedtausif)
