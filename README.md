@@ -276,6 +276,8 @@ And many more
 #### SNA
 
 #### IRT 
+
+#### Software Quality Assurance and Testing 
   
 #### Let's Connect
 - LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammedtausif)
