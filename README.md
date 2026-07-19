@@ -1,21 +1,23 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2E9EF7&height=130&section=header" width="100%"/>
+
 # Muhammad Tausif
 
 **PhD Researcher (AI) building Adaptive GraphRAG for Information Retrieval · Founder, SoftAsia Tech & AI Smart School**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Simulation+%2B+Data+%2B+Applied+AI;7%2B+years+across+ABM%2C+DevOps%2C+and+full-stack;Currently%3A+GraphRAG+evaluation+harness" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-tausif/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/muhammedtausif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-tausif/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/muhammedtausif)
 [![SoftAsia Tech](https://img.shields.io/badge/SoftAsia_Tech-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://softasia.tech)
 [![AI Smart School](https://img.shields.io/badge/AI_Smart_School-16A34A?style=for-the-badge&logo=googlescholar&logoColor=white)](https://ai-smart-schools.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SoftAsiaTech)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tausifasia@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tausifasia@gmail.com)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2E9EF7&height=3" width="100%"/>
 
 ### Who / what / where I am right now
 
@@ -27,31 +29,31 @@ PhD candidate in Computer Science (AI) at **Quaid-i-Azam University, Islamabad**
 - 💬 **Talk to me about:** GraphRAG/RAG evaluation, agent-based modeling, or turning research prototypes into shipped tools.
 - 📫 **Reach me:** tausifasia@gmail.com or [LinkedIn](https://www.linkedin.com/in/muhammed-tausif/).
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2E9EF7&height=3" width="100%"/>
 
 ### Tech stack
 
 **AI / Research**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Simulation & Modeling**
-![NetLogo](https://img.shields.io/badge/NetLogo-ABM_%2F_Simulation-8A2BE2?style=flat-square)
-![AnyLogic](https://img.shields.io/badge/AnyLogic-Multi--Agent-8A2BE2?style=flat-square)
+![NetLogo](https://img.shields.io/badge/NetLogo-ABM%20%2F%20Simulation-8A2BE2?style=for-the-badge)
+![AnyLogic](https://img.shields.io/badge/AnyLogic-Multi--Agent-8A2BE2?style=for-the-badge)
 
 **Systems & Web**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2E9EF7&height=3" width="100%"/>
 
 ### Selected projects
 
@@ -66,15 +68,26 @@ PhD candidate in Computer Science (AI) at **Quaid-i-Azam University, Islamabad**
 
 *(157+ repositories total — [full list here](https://github.com/MuhammadTausif?tab=repositories). The six above are the ones that actually represent current work.)*
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2E9EF7&height=3" width="100%"/>
+
+### Activity & stats
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadTausif&theme=default" alt="GitHub Stats" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadTausif&theme=default" alt="Languages" width="48%"/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadTausif&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%"/>
+</picture>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2E9EF7&height=3" width="100%"/>
 
 <div align="center">
 
@@ -84,3 +97,5 @@ PhD candidate in Computer Science (AI) at **Quaid-i-Azam University, Islamabad**
 **Email:** tausifasia@gmail.com
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0F172A&height=80&section=footer" width="100%"/>
