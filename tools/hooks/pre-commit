@@ -1,0 +1,25 @@
+#!/bin/sh
+# Pre-commit guard: refuse a commit that stages a file over the size limit.
+#
+# This file lives in the repo (tools/hooks/) rather than .git/hooks/ so it's
+# version-controlled and can be rolled out to other repos the same way
+# OPERA.md is (tools/opera_trace_sync.py --push-hygiene). It only takes
+# effect once this repo's git is pointed at it:
+#
+#   git config core.hooksPath tools/hooks
+#
+# See tools/large_file_check.py and 16_OPERA_FRAMEWORK.md R-M6.
+
+# Prefer `python`: on Windows, `python3` on PATH is sometimes the Microsoft
+# Store alias stub, which exits with an unrelated error instead of running.
+# `python --version` (not just `command -v`) confirms it actually runs.
+if python --version >/dev/null 2>&1; then
+    PY=python
+elif python3 --version >/dev/null 2>&1; then
+    PY=python3
+else
+    echo "pre-commit: no working python found on PATH -- skipping large-file check" >&2
+    exit 0
+fi
+
+"$PY" "$(git rev-parse --show-toplevel)/tools/large_file_check.py" --staged
